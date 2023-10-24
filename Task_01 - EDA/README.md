@@ -1,53 +1,51 @@
-# World Happiness Report 2023: Exploratory Data Analysis
+# 🌍 Data Science on World Happiness 2023: Exploratory Data Analysis 📊
 
-This repository contains an in-depth Exploratory Data Analysis (EDA) of the World Happiness Report 2023 dataset sourced from Kaggle. The analysis delves into understanding the factors contributing to happiness scores across various countries and provides visual insights into global happiness trends.
+This repository contains an in-depth Exploratory Data Analysis (EDA) of the World Happiness Report 2023 dataset sourced from Kaggle. The analysis delves into understanding the factors contributing to happiness scores across various countries and provides visual insights into global happiness trends. 🌐
 
-![World Happiness Map](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/EDA_and_Apache_Beam_Project/Assignment_1_EDA_D3/world_happiness_scores_2023.png)
 
-> **Note**: Replace `path_to_image/world_happiness_map.png` with the actual path to your world map visualization.
+## 📜 Table of Contents
 
-## Table of Contents
+- [Introduction](#introduction) 📝
+- [Dataset Overview](#dataset-overview) 📄
+- [Technologies Used](#technologies-used) 💻
+- [Key Findings](#key-findings) 🔍
+- [Visualizations](#visualizations) 📉
+- [Conclusion](#conclusion) 🖋
 
-- [Introduction](#introduction)
-- [Dataset Overview](#dataset-overview)
-- [Technologies Used](#technologies-used)
-- [Key Findings](#key-findings)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
+## 📝 Introduction
 
-## Introduction
+The World Happiness Report ranks countries based on citizens' self-evaluation of their lives. This EDA aims to uncover patterns, relationships, and insights from the dataset to better understand the driving factors behind happiness scores. 😃
 
-The World Happiness Report ranks countries based on citizens' self-evaluation of their lives. This EDA aims to uncover patterns, relationships, and insights from the dataset to better understand the driving factors behind happiness scores.
-
-## Dataset Overview
+## 📄 Dataset Overview
 
 The dataset comprises several metrics, such as:
-- Ladder Score
-- GDP per capita
-- Social support
-- Healthy life expectancy
-- Freedom to make life choices
-- Generosity
-- Perceptions of corruption
+- Ladder Score 📏
+- GDP per capita 💰
+- Social support 👥
+- Healthy life expectancy 🏥
+- Freedom to make life choices 🗽
+- Generosity ❤️
+- Perceptions of corruption 🚫
 
-## Technologies Used
+## 💻 Technologies Used
 
-- Python
-- Pandas
-- D3.js
-- Plotly
-- And other data visualization libraries
+- Python 🐍
+- Pandas 🐼
+- D3.js 📊
+- Plotly 📉
+- And other data visualization libraries 📌
 
-## Key Findings
+## 🔍 Key Findings
 
-- **Global Distribution**: Certain regions, such as Western Europe and North America, consistently report higher happiness scores, while regions like Sub-Saharan Africa report lower scores.
-- **Economic Prosperity**: There's a strong correlation between GDP per capita and happiness scores.
-- **Social Factors**: Countries with higher social support and freedom tend to have higher happiness scores.
+- **Global Distribution**: Certain regions, such as Western Europe and North America, consistently report higher happiness scores, while regions like Sub-Saharan Africa report lower scores. 🌍
+- **Economic Prosperity**: There's a strong correlation between GDP per capita and happiness scores. 📈
+- **Social Factors**: Countries with higher social support and freedom tend to have higher happiness scores. 🤝
 
-## Visualizations
+## 📉 Visualizations
 
-A variety of visualizations, including scatter plots, heatmaps, histograms, and geographical maps, were used to derive insights from the data. These visualizations help in understanding the distribution, correlation, and trends of various factors affecting happiness.
+A variety of visualizations, including scatter plots, heatmaps, histograms, and geographical maps, were used to derive insights from the data. These visualizations help in understanding the distribution, correlation, and trends of various factors affecting happiness. 📊
 
-## Conclusion
+## 🖋 Conclusion
 
-The World Happiness Report 2023 provides a comprehensive understanding of the well-being of global populations. This EDA sheds light on the multifaceted nature of happiness and the myriad factors contributing to it.
+The World Happiness Report 2023 provides a comprehensive understanding of the well-being of global populations. This EDA sheds light on the multifaceted nature of happiness and the myriad factors contributing to it. ✨
+
